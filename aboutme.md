@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Andrew Mikol
-subtitle: Timeline
+subtitle: 
 ---
 
 ### My Future
