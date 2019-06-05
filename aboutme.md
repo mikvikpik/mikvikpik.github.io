@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Andrew Mikol
-subtitle: Why you'd want to hire me!
+title: Andrew Mikol
+subtitle: Timeline
 ---
 
 ### My Future
