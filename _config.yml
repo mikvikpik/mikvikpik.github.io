@@ -44,7 +44,7 @@ title-img: "/img/amikol.jpg"
 # hex colors
 navbar-col: "#b8483f"
 navbar-text-col: "#f5f7fa"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#b8483f"
 page-col: "#ffffff"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -78,7 +78,7 @@ social-network-links:
   twitter: AndrewJMikol
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: andrewmikolwork
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -92,8 +92,8 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
   linkedin: true
 
