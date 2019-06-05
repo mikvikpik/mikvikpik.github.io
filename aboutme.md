@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Andrew Mikol
+title: ANDREW MIKOL
 subtitle: 
 ---
 
