@@ -5,6 +5,7 @@ subtitle: The example to make your dreams come true
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
+bigimg: /img/path.jpg
 comments: true
 ---
 
