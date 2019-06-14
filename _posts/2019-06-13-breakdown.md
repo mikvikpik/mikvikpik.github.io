@@ -4,7 +4,7 @@ title: Breaking Down What is Going on Here
 subtitle: Why is There an Interest in Data Science
  #gh-repo: daattali/beautiful-jekyll
  #gh-badge: [star, fork, follow]
-tags: [data science, python, introduction, building blocks]
+tags: [data science, introduction, building blocks]
  #bigimg: /img/path.jpg
 comments: true
 ---
