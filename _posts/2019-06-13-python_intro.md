@@ -5,7 +5,7 @@ subtitle: I know English, but why is there a snake?
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 tags: [python, beginner, aliens]
-bigimg: /img/python_lang1.png
+bigimg: /img/python_lang1.jpg
 comments: true
 ---
 
