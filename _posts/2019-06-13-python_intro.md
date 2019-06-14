@@ -47,7 +47,7 @@ def next_function():
   x = "This one is too!"
   return print(x)
 ```
-This next function returns a string without the quotes because of the print function. Typically useful for displaying strings.
+This next function returns a string without the quotes because of the print function. Typically useful for displaying strings.```This one is too!```
 ```python
 x = 'oreos'
 oreos_sleeve = ['i', 'will', 'eat', 6, x]
