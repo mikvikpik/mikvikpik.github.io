@@ -8,7 +8,7 @@ subtitle:
 I'm looking for work that matters. It has to matter to someone. It has to affect people. I know that it usually affects someone's bottom line, but what else does it affect? Does it create happiness for someone else? Does it determine if someone lives or dies, passes or fails, or is it something that changes those paradigms? How can I be part of that picture? That is the work that matters to me.
 
 ### My Present
-Lambda school has been an amazing and rewarding experience. I've overcome the obstacles of limiting beliefs and legacy education bias. I've further rooted myself in believing that work stemming from happiness is the greatest single attribute to have and creates my ambition going forward.
+I've overcome the obstacles of limiting beliefs and legacy education bias. I've further rooted myself in believing that work stemming from happiness is the greatest single attribute to have and creates my ambition going forward.
 
 ### My History
 
