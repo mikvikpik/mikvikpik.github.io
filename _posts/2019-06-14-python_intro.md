@@ -45,7 +45,7 @@ def function():
   x = "It's that easy!"
   return x
 ```
-Oh yeah, that's how a function is written, it really is that easy. By the way, it prints out with the quotes when the function is formed without a print function. ```"It's that easy!"```
+Oh yeah, that's how a function is written, it really is that easy. By the way, it prints out with the quotes when the function return is formed without a print function. ```"It's that easy!"```
 ```python
 def next_function():
   x = "This one is too!"
