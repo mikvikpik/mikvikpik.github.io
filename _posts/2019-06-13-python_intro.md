@@ -17,7 +17,7 @@ It's really not so bad. It's as close to English as I can get in most respects.
 ```python
 print("Hello World!")
 ```
-This is me telling python to output **Hello World**. You should see some of those mathematical music languages. It's definitely not that easy. It's also fairly intuitive as long as you know what you're doing.
+This is me telling python to output ```Hello World```. You should see some of those mathematical music languages. It's definitely not that easy. It's also fairly intuitive as long as you know what you're doing.
 ```python
 a = 1
 avariable = 1.0
@@ -29,7 +29,7 @@ a = 1
 a = 1.0
 a = 'one'
 ```
-Don't be a dummy though. Variables can be overwritten just as easily. So it's not going to be **1** or **1.0** when the last instruction is to call it **one**. 
+Don't be a dummy though. Variables can be overwritten just as easily. So it's not going to be ```1``` or ```1.0``` when the last instruction is to call it ```one```. 
 ```python
 list = []
 dictionary = {}
@@ -41,7 +41,7 @@ def function():
   x = "It's that easy!"
   return x
 ```
-Oh yeah, that's how a function is written, it really is that easy. By the way, it prints out with the quotes when the function is formed without a print function. **"It's that easy!"**
+Oh yeah, that's how a function is written, it really is that easy. By the way, it prints out with the quotes when the function is formed without a print function. ```"It's that easy!"```
 ```python
 def next_function():
   x = "This one is too!"
