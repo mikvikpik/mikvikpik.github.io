@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Python Intro
+title: Python Intro Part 1
 subtitle: I know English, but why is there a snake?
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-tags: [python, beginner, aliens]
+tags: [python, beginner, aliens, intro to python]
 bigimg: /img/python_lang1.jpg
 comments: true
 ---
@@ -33,9 +33,9 @@ Don't be a dummy though. Variables can be overwritten just as easily. So it's no
 ```python
 list = []
 dictionary = {}
-still_parenthesis_but_also_method_calls = ()
+still_parenthesis_and_also_a_tuple_but_also_method_calls = ()
 ```
-This can be a little different than some other languages based on the usage, but it's important to know where they stand. Just remember to keep variables lower case please.
+This can be a little different than some other languages based on the usage, but it's important to know where they stand. Just remember to use parentheses appropriately because it can get bunchy.
 ```python
 def function():
   x = "It's that easy!"
@@ -49,7 +49,14 @@ def next_function():
 ```
 This next function returns a string without the quotes because of the print function. Typically useful for displaying strings.
 ```python
-oreos_sleeve = ['i', 'will', 'eat', 'them', 'all']
+x = 'oreos'
+oreos_sleeve = ['i', 'will', 'eat', 6, x]
 print(*oreos_sleeve)
+```
+With the asterisk in front of the list variable this prints out all the values with a space in between and no quotes.
+```i will eat 6 oreos```
+A fun part of lists is the use of multiple types of inputs inside the brackets and still being able to function.
+
+Python is a great start to truly gain my confidence in the skill of a computer programming language. While plain, the fundamental rules are great to build an understanding upon, while keeping complexity to the more complex usage that we find in many python libraries.
 
   
