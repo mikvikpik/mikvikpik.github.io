@@ -35,7 +35,11 @@ list = []
 dictionary = {}
 still_parenthesis_and_also_a_tuple_but_also_method_calls = ()
 ```
-This can be a little different than some other languages based on the usage, but it's important to know where they stand. Be wary of words that are used as built-in functions and methods because ```python list``` is blue for a reason. Also remember to use parentheses appropriately because it can get bunchy.
+This can be a little different than some other languages based on the usage, but it's important to know where they stand. Be wary of words that are used as built-in functions and methods because 
+```python
+list
+``` 
+is blue for a reason. Also remember to use parentheses appropriately because it can get bunchy.
 ```python
 def function():
   x = "It's that easy!"
