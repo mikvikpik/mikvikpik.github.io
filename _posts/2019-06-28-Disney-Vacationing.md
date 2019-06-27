@@ -14,3 +14,8 @@ That all depends on how you vacation. Do you relax? Do you explore? Do you go to
 It's not all just for kids. And it's for more than just riding rollercoasters and saying hi to Mickey Mouse. There's a whole new world to explore and more magic than you can fathom. Thanks to [TouringPlans.com](https://touringplans.com/magic-kingdom/touring-plans/adults), they've got great itineraries for just that. They've also got some great data that they're using to support [Data Science and Machine Learning](https://touringplans.com/blog/2018/06/25/disney-world-wait-times-available-for-data-science-and-machine-learning/)folks like us.
 
 So, *what is the perfect vacation* if you're going to Walt Disney World Resort? And you're in your mid-twenties to young-at-heart age? Then sometimes *the perfect vacation is* **when you're going**. When would that be? That answer most times is when it's least crowded. A better answer would be when there's less kids. 
+
+<div>
+    <a href="https://plot.ly/~mikvikpik/2/?share_key=aB7XQxIEnpBKKGqu1KTt6m" target="_blank" title="plot from API" style="display: block; text-align: center;"><img src="https://plot.ly/~mikvikpik/2.png?share_key=aB7XQxIEnpBKKGqu1KTt6m" alt="plot from API" style="max-width: 100%;width: 1250px;"  width="1250" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="mikvikpik:2" sharekey-plotly="aB7XQxIEnpBKKGqu1KTt6m" src="https://plot.ly/embed.js" async></script>
+</div>
