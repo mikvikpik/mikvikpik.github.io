@@ -15,4 +15,4 @@ It's not all just for kids. And it's for more than just riding rollercoasters an
 
 So, *what is the perfect vacation* if you're going to Walt Disney World Resort? And you're in your mid-twenties to young-at-heart age? Then sometimes *the perfect vacation is* **when you're going**. When would that be? That answer most times is when it's least crowded. A better answer would be when there's less kids. 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~mikvikpik/2.embed"></iframe>
+<iframe width="900" height="800" align="center" frameborder="0" scrolling="no" src="//plot.ly/~mikvikpik/2.embed"></iframe>
