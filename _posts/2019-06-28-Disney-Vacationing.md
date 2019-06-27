@@ -5,6 +5,7 @@ subtitle: For Adults Who Don't Conform to Summer Vacation
 tags: [Disney, Vacation, Project, Visualization]
 bigimg: /img/WDW_List_bg.jpg
 comments: true
+googlefonts: "Poppins"
 ---
 
 ### What is the Perfect Vacation?
