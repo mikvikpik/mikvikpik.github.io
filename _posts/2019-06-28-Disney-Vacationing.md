@@ -19,6 +19,7 @@ So, *what is the perfect time for vacation* if you're going to Walt Disney World
 
 Let's start here.
 
+![WDW Average Session](https://drive.google.com/file/d/1pMO0OMJaedxkXaLImqNpRhwnHID6BKlC/view?usp=sharing)
 
 
 Looking at the months in general we can see that the highest percentages of kids in school are March, May, and December. The lowest is obviously the summer months when kids would be out for vacation and parents would take the time to reward or entertain them. 
