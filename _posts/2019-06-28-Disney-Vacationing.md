@@ -19,7 +19,7 @@ So, *what is the perfect time for vacation* if you're going to Walt Disney World
 
 Let's start here.
 
-<img src="https://photos.app.goo.gl/nXh7hPTMAv88GgjZ7">
+![](/img/WDW_plt_graph.png)
 
 
 Looking at the months in general we can see that the highest percentages of kids in school are on average all except March, the summer months, and December. So could we really go any time during those periods? Hypotheically, yes. But let's look at more detail. 
