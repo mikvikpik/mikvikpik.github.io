@@ -23,7 +23,7 @@ Let's start here.
 
 Looking at the months in general we can see that the highest percentages of kids in school are March, May, and December. The lowest is obviously the summer months when kids would be out for vacation and parents would take the time to reward or entertain them. 
 
-<iframe width="900" height="800" align="center" frameborder="0" scrolling="no" src="//plot.ly/~mikvikpik/56.embed"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~mikvikpik/56.embed"></iframe>
 
 This graph shows daily which schools are in session. Step number one to a kid-free Disney vacation is to look for the *green spaces* based on kids being in school. This is when there's gonna be less at Disney, less tantrums, less messes, less kids. The second would be to see timing what fits best for you. 
 
