@@ -35,3 +35,8 @@ It's important to note that the data gets better after 2014 when weekends are no
 There's great chucks of time for a vacation that many think to overlook because of any various reasons. Just after New Years in January or after summer ends in September are notable not only because school is back in session, but because maybe money is already spent. And apparently the month of May would be great to take your mother to treat her to the magic she's always deserved.
 
 While it seems fairly obvious, <span style="color:red">take into account that with every kid comes at least a parent and a best friend </span>to share the experience of the magical place on earth. So there's even more intangibles that aren't seen in the data and has to be inferred. And while you won't avoid all the kids heading to Walt Disney World, the satisfaction of not having to be aware of the rogue 5 year old is a blessing for me for now.
+
+
+Citations: "metadata.csv", Disney World Ride Wait Time Datasets, TouringPlans.com, June 2018, https://www.touringplans.com/walt-disney-world/crowd-calendar/#DataSets, Accessed 21 June 2019.
+
+Walt Disney World List Banner. Digital image. Disney Parks Media. Unknown Publication Date, //https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1440/540/75/dam/wdpro-assets/tickets/WDW_List.jpg?1560867616995, Accessed 21 June 2019.
