@@ -28,7 +28,7 @@ Looking at the months in general we can see that the <span style="color:red">low
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~mikvikpik/56.embed"></iframe>
 
-This graph shows daily which schools are in session. Step number one to a kid-free Disney vacation is to look for the <span style="color:green">*green spaces*</span> based on kids being in school. This is when there's gonna be less people at Disney, not to mention less tantrums, less messes, less kids. The second would be to see <span style="color:green">timing</span> what fits best for you. 
+This graph shows daily which schools are in session. Step number one to a kid-free Disney vacation is to look for the <span style="color:green">*green spaces*</span> based on kids being in school. This is when there's gonna be <span style="color:green">less people at Disney, not to mention less tantrums, less messes, less kids</span>. The second would be to see what timing fits best for you. 
 
 It's important to note that the data gets better after 2014 when weekends are not as highly factored by looking at the piano key segments. <span style="color:green"><i>The most optimal times seem to be when there are holidays or breaks either about to come up or having just passed.</i></span>
 
