@@ -6,6 +6,8 @@ tags: [Disney, Vacation, Project, Visualization]
 bigimg: /img/WDW_List_bg.jpg
 comments: true
 googlefonts: "Raleway"
+gh-repo: mikvikpik/Unit_1_Visualization_Project
+gh-badge: [star, fork, follow]
 ---
 
 ### What is the Perfect Vacation?
