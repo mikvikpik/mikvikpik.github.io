@@ -24,7 +24,7 @@ Let's start here.
 ![WDW](/img/wdw_mpl_graph.png)
 
 
-Looking at the months in general we can see that the **lowest percentages of kids in school are** on average<span style="color:red"> March, June, July, August, and December</span>. So could we really go any time that's not those months? Hypotheically, yes. But let's look at more detail. 
+Looking at the months in general we can see that the <span style="color:red">lowest percentages of kids in school</span> are on average<span style="color:red"> March, June, July, August, and December</span>. So could we really go any time that's not those months? Hypotheically, yes. But let's look at more detail. 
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~mikvikpik/56.embed"></iframe>
 
