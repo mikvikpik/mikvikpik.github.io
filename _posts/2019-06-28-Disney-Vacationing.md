@@ -22,7 +22,7 @@ Let's start here.
 ![WDW Average Session](https://drive.google.com/file/d/1pMO0OMJaedxkXaLImqNpRhwnHID6BKlC/view?usp=sharing)
 
 
-Looking at the months in general we can see that the highest percentages of kids in school are March, May, and December. The lowest is obviously the summer months when kids would be out for vacation and parents would take the time to reward or entertain them. 
+Looking at the months in general we can see that the highest percentages of kids in school are on average all except March, the summer months, and December. So could we really go any time during those periods? Hypotheically, yes. But let's look at more detail. 
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~mikvikpik/56.embed"></iframe>
 
